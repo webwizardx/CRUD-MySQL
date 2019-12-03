@@ -1,3 +1,3 @@
-#CRUD NodeJS y MySQL
+# CRUD NodeJS y MySQL
 
-Proyecto de practica de una *CRUD e integrandola con git para el manejo de versiones.
+Proyecto de practica de una CRUD e integrandola con git para el manejo de versiones.
